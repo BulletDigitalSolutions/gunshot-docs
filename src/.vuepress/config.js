@@ -60,10 +60,11 @@ module.exports = {
             'installation',
             'module-maker',
             'pivot-repositories',
+            'middleware',
+            'traits',
+            'two-factor-authentication',
             'image-resizer',
             'filter-string',
-            'traits',
-            'middleware',
           ]
         }
       ],
