@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4d349eb-61b0-4960-b88a-4639fb4060d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gunshot/traits.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gunshot/traits.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/andy/git/gunshot-docs/src/gunshot",
+    "last_opened_file_path": "/home/andy/git/shoot_v3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,7 +54,9 @@
       <updated>1670929709482</updated>
       <workItem from="1670929710537" duration="429000" />
       <workItem from="1670930140154" duration="2597000" />
-      <workItem from="1670933640678" duration="6892000" />
+      <workItem from="1670933640678" duration="7655000" />
+      <workItem from="1670945226409" duration="145000" />
+      <workItem from="1670945402687" duration="37000" />
     </task>
     <servers />
   </component>
