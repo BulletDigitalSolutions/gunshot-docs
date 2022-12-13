@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4d349eb-61b0-4960-b88a-4639fb4060d7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gunshot/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gunshot/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gunshot/installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gunshot/installation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gunshot/module-maker.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gunshot/module-maker.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gunshot/pivot-repositories.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gunshot/pivot-repositories.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <updated>1670929709482</updated>
       <workItem from="1670929710537" duration="429000" />
       <workItem from="1670930140154" duration="2597000" />
-      <workItem from="1670933640678" duration="1953000" />
+      <workItem from="1670933640678" duration="4753000" />
     </task>
     <servers />
   </component>
