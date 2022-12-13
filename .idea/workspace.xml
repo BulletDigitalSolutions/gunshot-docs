@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d349eb-61b0-4960-b88a-4639fb4060d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/doctrine-cashier/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doctrine-eloquent/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot-ui/forms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot-ui/table.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot/image-resizer.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot/installation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot/middleware.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot/module-maker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot/pivot-repositories.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gunshot/traits.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670929709482</updated>
       <workItem from="1670929710537" duration="429000" />
-      <workItem from="1670930140154" duration="1461000" />
+      <workItem from="1670930140154" duration="1622000" />
     </task>
     <servers />
   </component>
