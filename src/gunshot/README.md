@@ -1,21 +1,4 @@
 
 # Gunshot
 
-## Pivot Repository
-
-- Type: `string`
-- Default: `/`
-
-## Image Resizer Builder
-
-- Type: `string`
-- Default: `/`
-
-## Filter String Builder
-
-- Type: `string`
-- Default: `/`
-
-## Traits
-
-## Middleware
+Gunshot is a Laravel package developed by BulletDigitalSolutions, it is a collection of tools to help you build laravel-doctrine applications in a faster and modular way. 

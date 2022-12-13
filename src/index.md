@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://www.bulletdigitalsolutions.co.uk/wp-content/themes/bullet/images/logo.svg
 tagline: 
 actionText: Quick Start →
 actionLink: /gunshot/
