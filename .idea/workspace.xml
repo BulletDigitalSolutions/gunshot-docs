@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d349eb-61b0-4960-b88a-4639fb4060d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gunshot/two-factor-authentication.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gunshot/middleware.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gunshot/middleware.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gunshot/traits.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/gunshot/traits.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <updated>1670929709482</updated>
       <workItem from="1670929710537" duration="429000" />
       <workItem from="1670930140154" duration="2597000" />
-      <workItem from="1670933640678" duration="6010000" />
+      <workItem from="1670933640678" duration="6892000" />
     </task>
     <servers />
   </component>
